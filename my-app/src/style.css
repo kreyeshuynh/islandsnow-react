@@ -7,3 +7,14 @@ h1 {
   font-family: "Times New Roman", Times, serif;
   font-weight: 700;
 }
+
+.custom-dropdown {
+  background-color: transparent; /* Set the background color to transparent */
+}
+
+.custom-dropdown-toggle {
+  color: black !important; /* Set the text color to black */
+  background-color: transparent !important; /* Set the background color to transparent */
+  border: none !important; /* Remove border */
+}
+
