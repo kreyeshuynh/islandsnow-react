@@ -76,7 +76,7 @@ const FullWidthImage = () => (
 );
 
 const FooterMenu = () => (
-  <FooterMenu>
+  <Container className="footer">
     <Container>
       <Row>
         <Col>
@@ -104,7 +104,7 @@ const FooterMenu = () => (
         </Col>
       </Row>
     </Container>
-  </FooterMenu>
+  </Container>
 );
 
 const IslandSnow = () => (
